@@ -45,7 +45,6 @@ export class News extends Component {
     })
     this.props.setProgress(100);
 
-
 }
 
   async componentDidMount() {
