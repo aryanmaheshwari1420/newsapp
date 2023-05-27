@@ -96,4 +96,5 @@ pageSize: PropTypes.number,
 category: PropTypes.string,
 };
 
+
 export default News;
